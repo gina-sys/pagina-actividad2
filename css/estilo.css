@@ -1,0 +1,35 @@
+body{background-color: rgb(88, 130, 250);}
+
+h1{
+	color: white;
+}
+
+table{
+	background-color: rgb(45, 100, 255);
+	border: 2px solid white;
+	border-collapse: collapse;
+}
+
+thead{
+	background-color: rgb(128, 191, 245);
+}
+tr{
+	height: 28px;
+}
+td{
+	color: white;
+	border: 1px solid white;
+	border-collapse: collapse;
+}
+td.t1col1{
+	width: 60px;
+}
+td.t1col2{
+	width: 300px;
+}
+td.t2col1{
+	width: 90px;
+}
+td.t2col2{
+	width: 500px;
+}
